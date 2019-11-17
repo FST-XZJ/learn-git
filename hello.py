@@ -1,0 +1,1 @@
+print('We can learn slowly,then we can meet the better me.')
